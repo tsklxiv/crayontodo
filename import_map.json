@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "cliffy-prompt": "https://deno.land/x/cliffy/prompt/mod.ts",
+    "ink": "https://deno.land/x/ink/mod.ts"
+  }
+}
